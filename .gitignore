@@ -1,0 +1,6 @@
+venv
+__pycache__
+cache/
+.model_cache.json
+custom_nodes/
+node_modules/
